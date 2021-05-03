@@ -1,5 +1,5 @@
 # DSA-final-Project-KD-Tree-based-RRT-
-This is a KD Tree based RRT* algorithm.
+This is a KD Tree based RRT* algorithm, which is the DSA final project of Lingyi and Songjun.
 
 The main program is called My3DCodeKDTree.m 
 Please run it.
