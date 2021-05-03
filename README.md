@@ -15,8 +15,8 @@ The authers are:
     email: sh1429@soe.rutgers.edu
 
 
-Introductio of the codes:
-This is a KD Tree based RRT* algorithm, which is the DSA final project of Lingyi and Songjun.
+Introduction of the codes:
+This is a KD Tree based RRT* algorithm.
 
 The main program is called My3DCodeKDTree.m 
 Please run it.
