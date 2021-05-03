@@ -19,7 +19,7 @@ Introduction of the codes:
 This is a KD Tree based RRT* algorithm.
 
 The main program is called My3DCodeKDTree.m 
-Please run it.
+Please run it by MATLAB.
 
 The RRT* related code is in this file and the "max_ite" in line 21 is the maximum iterations, currently I set as 5000.
 
