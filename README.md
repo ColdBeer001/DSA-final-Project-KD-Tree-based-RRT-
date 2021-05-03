@@ -1,4 +1,21 @@
-# DSA-final-Project-KD-Tree-based-RRT-
+# DSA_21_group7
+
+Hi,
+This is the final project of group 7.
+
+Our topic is: The Deployment of KD Tree to Improve the Performance of RRT*
+
+The authers are:
+1. Lingyi Huang 
+    Net ID: lh670
+    email: lingyi.huang@rutgers.edu
+    
+2. Songjun Huang
+    Net ID: lh1429
+    email: sh1429@soe.rutgers.edu
+
+
+Introductio of the codes:
 This is a KD Tree based RRT* algorithm, which is the DSA final project of Lingyi and Songjun.
 
 The main program is called My3DCodeKDTree.m 
